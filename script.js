@@ -69,4 +69,3 @@ function loadApps() {
 }
 
 window.onload = loadApps;
-
