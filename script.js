@@ -8,7 +8,7 @@ const apps = [
   { name: "Pelckmans Portaal", icon: "pelckmans.png", path: "pelckmans.html" },
   { name: "Scoodle", icon: "scoodle.png", path: "scoodle.html" },
   { name: "Google", icon: "google.png", path: "google.html" },
-  { name: "Smartschool", icon: "smartschool.png", path: "Smartschool.html" }
+  { name: "Smartschool", icon: "smartschool.png", path: "smartschool.html" }
 ];
 
 // ✅ Popup-venster zoals een OS
@@ -69,3 +69,4 @@ function loadApps() {
 }
 
 window.onload = loadApps;
+
